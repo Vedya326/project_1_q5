@@ -3,4 +3,8 @@
   "model": "Gemini 3 Flash (Nano Banana 2)",
   "concept": "Systemic Fragility",
   "metaphor": "A fracturing world map; fine hairline cracks represent frequent minor disruptions, while massive jagged breaches represent rare, catastrophic events that physically tear the systemic structure apart."
+  "dataset_name": "Global Terrorism Database",
+  "dataset_url": "https://www.kaggle.com/datasets/START-UMD/gtd",
+  "insight": "Over time, terrorist attacks have become less frequent but significantly more deadly per incident, indicating a shift from high-volume low-impact events to fewer high-impact attacks."
 }
+
